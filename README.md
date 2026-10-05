@@ -1,3 +1,5 @@
+> This learning exercise is now collected in [ML Foundations](https://github.com/zoga228/ml-foundations/tree/main/exercises/PRODIGY_ML_04). This repository is archived to preserve its original history.
+
 # PRODIGY_ML_04 - Hand Gesture Recognition
 
 Task: develop a hand gesture recognition model that can classify different hand gestures from image data.
